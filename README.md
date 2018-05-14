@@ -1,2 +1,3 @@
 # hello-world
-Learning how to use GitHub
+
+This message is to test a branch in GitHub.
